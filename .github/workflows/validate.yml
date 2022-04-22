@@ -1,5 +1,13 @@
 name: Validate
 
+# on:
+#   push:
+#     branches:
+#       - main
+#       - develop
+#   # Trigger the workflow on any pull request
+#   pull_request:
+
 on: [push]
 
 jobs:

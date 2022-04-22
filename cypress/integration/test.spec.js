@@ -5,7 +5,7 @@ describe("shoudld work", () => {
     cy.visit("/");
   });
 
-  it("something is here", () => {
+  it("works", () => {
     cy.get("h1").should("contain.text", "bob");
   });
 });

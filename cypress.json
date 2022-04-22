@@ -1,4 +1,7 @@
 {
   "projectId": "wcrv91",
-  "baseUrl": "http://localhost:3000"
+  "baseUrl": "http://localhost:3000",
+  "video": true,
+  "videoCompression": 16,
+  "videoUploadOnPasses": true
 }
